@@ -103,6 +103,4 @@ Para personalizar la página:
 - [ ] Chat en vivo
 - [ ] Galería de proyectos realizados
 
----
 
-**DON PETER** - *Tu hogar merece lo mejor* ✨
